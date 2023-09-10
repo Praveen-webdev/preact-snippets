@@ -2,8 +2,9 @@
   "name": "preact-snippets",
   "displayName": "Preact Snippets",
   "description": "Snippets for Preact",
+  "icon": "./m_preact-logo.png",
   "version": "1.0.0",
-  "publisher": "S Praveen",
+  "publisher": "1ab4a0b1-cc41-64f7-ad52-d7481170d3ae",
   "categories": [
     "Snippets"
   ],
@@ -18,5 +19,9 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Praveen-webdev/preact-snippets.git"
+  }
 }
