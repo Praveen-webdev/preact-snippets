@@ -1,0 +1,22 @@
+{
+  "name": "preact-snippets",
+  "displayName": "Preact Snippets",
+  "description": "Snippets for Preact",
+  "version": "1.0.0",
+  "publisher": "S Praveen",
+  "categories": [
+    "Snippets"
+  ],
+  "engines": {
+    "vscode": "^1.35.0"
+  },
+  "contributes": {
+    "snippets": [
+      {
+        "language": "javascript",
+        "path": "./preact-snippets.json"
+      }
+    ]
+  },
+  "license": "MIT"
+}
